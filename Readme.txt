@@ -2,7 +2,8 @@ This is a Menu --> Sub menu template for a console application in C++
 
 Menu looping should be fully functional as is. 
 
-1 Header - all functions protoypes declared here.
+1 Header - all functions protoypes declared here. All definitions reside
+in their own source files.
 1 Main - contains an intro and loop for main menu call.
 1 Main menu - # of options can be added by
 1+ sub menu's - whenever a sub menu functions is called be sure to set
