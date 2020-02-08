@@ -67,6 +67,7 @@ int sub_Menu_3(int selection)
 			<< "*******************" << endl;
 		cout << "********************************   Somehow   ***************"
 			<< "*******************" << endl;
+		return 0; //should exit program
 	}
 	}//end of switch
 
